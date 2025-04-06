@@ -1,3 +1,3 @@
 from django.contrib import admin
 
-# Register your models here.
+# No models to register since we're using in-memory storage
